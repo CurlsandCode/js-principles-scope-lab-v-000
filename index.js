@@ -11,8 +11,8 @@
     bestCustomer = 'maybe bob';
  }
 
- const leastFavoriteCustomer = Tricia;
- 
+ const leastFavoriteCustomer = "Tricia";
+
 function changeLeastFavoriteCustomer () {
  const leastFavoriteCustomer = "Kat";
 }
