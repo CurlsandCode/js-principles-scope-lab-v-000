@@ -8,11 +8,11 @@
     bestCustomer = 'not bob';
  }
  function overwriteBestCustomer() {
-   var bestCustomer = 'maybe bob';
+    bestCustomer = 'maybe bob';
  }
 function changeLeastFavoriteCustomer () {
-  
+
 }
 function attemptTwoFavoriteCustomers() {
-  
+
 }
