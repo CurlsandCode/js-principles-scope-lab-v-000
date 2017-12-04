@@ -5,8 +5,14 @@
  }
 
  function setBestCustomer() {
-   var bestCustomer = 'not bob';
+    bestCustomer = 'not bob';
  }
  function overwriteBestCustomer() {
    var bestCustomer = 'maybe bob';
  }
+function changeLeastFavoriteCustomer () {
+  
+}
+function attemptTwoFavoriteCustomers() {
+  
+}
